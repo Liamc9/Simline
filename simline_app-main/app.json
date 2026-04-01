@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Simline",
+    "slug": "simline",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/images/simlineLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#065F46"
+    }
+  }
+}
